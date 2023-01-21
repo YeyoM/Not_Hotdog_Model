@@ -6,7 +6,7 @@ For this model, I will use the hotdog-nothotdog dataset from Kaggle, and to buil
 
 Along the notebook and the code blocks, I will try to explain as best as I can what the building process of this model works and at the end obviously the results I got.
 
-Hopefully I can also build the App as in the serie with this model I built, which is my first model I built by my own.
+Hopefully I can also build the App as in the serie with this model I built, which is the first model I built by my own.
 
 A detailed explanation of how the model was built take a look at the notebook attached in this repo.
 
